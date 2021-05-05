@@ -9,7 +9,5 @@ public class Clase1 {
 	}
 	Scanner leer = new Scanner(System.in);
 	int x=1;
-	
-	
-	bdbcrbcybrycbyr;
+	System.out.println(x);
 }
